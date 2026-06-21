@@ -1,0 +1,85 @@
+# קואלה דוכני מזון — Generative Engine Optimization Map
+
+> Koala Food Stalls is an Israeli food stall and event equipment rental business. It operates two main divisions: an equipment rental department where customers can rent items for up to 24 hours, and an events department offering food stall bookings for all types of events. The brand has its own logo and aims to present its services in a clear, visual catalog-style format with product images and pricing.
+
+---
+
+## Pages
+
+### בית
+https://-7edec22f.zappy5.app
+מחפשים השכרת דוכני אוכל לאירועים? קואלה דוכני מזון מציעה קטלוג ציוד ודוכנים מעוצבים לאירועי חברה, ימי הולדת ומסיבות. הצצו בתמונות ובחרו את הדוכן המושלם לאירוע שלכם!
+
+### השכרת ציוד
+https://-7edec22f.zappy5.app/equipment-rentals
+צריכים ציוד לאירוע בהתראה קצרה? קואלה דוכני מזון מציעה השכרת ציוד לאירועים בישראל עד 24 שעות. מגשיות, שולחנות ועוד במחירים משתלמים. הזמינו עכשיו ופנקו את האורחים!
+
+### דוכני אירועים
+https://-7edec22f.zappy5.app/event-stalls
+רוצים דוכני מזון לאירועים שיותירו רושם? קואלה דוכני מזון מציעה דוכני אוכל מעוצבים לאירועי חברה, חתונות וימי הולדת. גלו את המגוון שלנו והזמינו חוויה קולינרית ייחודית!
+
+### צור קשר
+https://-7edec22f.zappy5.app/contact
+מוכנים להפוך את האירוע שלכם לבלתי נשכח? צרו קשר עם קואלה דוכני מזון להזמנת דוכני מזון לאירועים או השכרת ציוד. לחצו כאן לשיחת ייעוץ חינם והצעת מחיר מותאמת!
+
+### Products
+https://-7edec22f.zappy5.app/products
+המוצרים שלנו - קואלה דוכני מזון
+
+### Product Detail
+https://-7edec22f.zappy5.app/product/:slug
+פרטי המוצר - קואלה דוכני מזון
+
+### Category
+https://-7edec22f.zappy5.app/category/:slug
+מוצרים - קואלה דוכני מזון
+
+### תודה שפניתם אלינו | קואלה דוכני מזון
+https://-7edec22f.zappy5.app/thank-you
+קואלה דוכני מזון - תודה שפניתם אלינו | קואלה דוכני מזון
+
+## Legal & Policy
+
+### Privacy Policy
+https://-7edec22f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-7edec22f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-7edec22f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About קואלה דוכני מזון
+Koala Food Stalls is an Israeli food stall and event equipment rental business. It operates two main divisions: an equipment rental department where customers can rent items for up to 24 hours, and an events department offering food stall bookings for all types of events. The brand has its own logo and aims to present its services in a clear, visual catalog-style format with product images and pricing.
+
+## Target Audience
+- מארגני אירועים, בעלי שמחות, חברות
+- מארגני אירועים
+- בעלי שמחות
+- חברות
+
+## Industry
+Food Stalls & Event Equipment Rental
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-7edec22f.zappy5.app/sitemap.xml
+- Robots: https://-7edec22f.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-7edec22f.zappy5.app/llms-full.txt
+- Products (JSON): https://-7edec22f.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-7edec22f.zappy5.app/product-feed.xml
