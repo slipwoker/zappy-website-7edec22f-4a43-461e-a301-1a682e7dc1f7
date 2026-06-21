@@ -3492,3 +3492,12 @@ Description: קואלה דוכני מזון - תודה שפניתם אלינו |
 
 ---
 
+## Product Catalog
+
+### מכונת פופקורן
+URL: https://example.com/product/mkvnt-pvpkvrn-v4r04o
+Price: 119.00 ILS (sale, was 200.00 ILS)
+Availability: In stock
+
+---
+

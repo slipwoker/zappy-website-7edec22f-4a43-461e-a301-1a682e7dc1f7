@@ -4,6 +4,19 @@
     <title>קואלה דוכני מזון</title>
     <link>https://example.com</link>
     <description>Product feed for קואלה דוכני מזון</description>
-    <lastBuildDate>Sun, 21 Jun 2026 17:19:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 17:27:34 GMT</lastBuildDate>
+    <item>
+      <g:id>98e3efa3-e5c5-4e4b-a5e2-d152694ce4c3</g:id>
+      <g:title>מכונת פופקורן</g:title>
+      <g:description>להשכרה ל 24 שעות איסוף עצמי ניתן לרכוש במקום ציוד נלווה - ( פופקורן , כוסות , מלח קולנוע )</g:description>
+      <g:link>https://example.com/product/mkvnt-pvpkvrn-v4r04o</g:link>
+      <g:image_link>https://example.com/assets/product-1782062560635-tmw8jf.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>200.00 ILS</g:price>
+      <g:sale_price>119.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>קואלה דוכני מזון</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>

@@ -56,7 +56,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### מכונת פופקורן
+https://example.com/product/mkvnt-pvpkvrn-v4r04o
+- Price: 119.00 ILS (sale, was 200.00 ILS)
+- Availability: In stock
+- Description: להשכרה ל 24 שעות איסוף עצמי ניתן לרכוש במקום ציוד נלווה - ( פופקורן , כוסות , מלח קולנוע )
+- Image: https://example.com/assets/product-1782062560635-tmw8jf.webp
 
 ---
 

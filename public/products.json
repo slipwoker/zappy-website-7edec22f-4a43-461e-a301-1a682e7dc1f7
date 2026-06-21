@@ -1,8 +1,31 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-21T17:19:06.328Z",
+  "generated_at": "2026-06-21T17:27:34.024Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "98e3efa3-e5c5-4e4b-a5e2-d152694ce4c3",
+      "slug": "mkvnt-pvpkvrn-v4r04o",
+      "name": "מכונת פופקורן",
+      "name_translations": {},
+      "description": "",
+      "short_description": "להשכרה ל 24 שעות\n איסוף עצמי \nניתן לרכוש במקום ציוד נלווה - ( פופקורן , כוסות , מלח קולנוע )",
+      "sku": null,
+      "brand": null,
+      "price": 119,
+      "base_price": 200,
+      "sale_price": 119,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782062560635-tmw8jf.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/mkvnt-pvpkvrn-v4r04o",
+      "categories": [],
+      "updated_at": "2026-06-21T17:24:39.758Z"
+    }
+  ]
 }
